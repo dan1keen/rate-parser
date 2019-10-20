@@ -50,4 +50,6 @@ public class ParseRateServiceImpl implements ParseRateService {
         String now = String.valueOf(java.time.LocalDate.now());
         return now;
     }
+
+    // The next steps are to develop methods for EURO and RUBLE values
 }
